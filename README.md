@@ -35,3 +35,4 @@ Future Improvements:
 - Better file not found error handling, with potential prompting user for a path
 - More error handling/notifying the user of improper formatted data. If a line has more columns than anticipated, it can prompt the user to look at the lines that were incorrectly formatted
 - Potentially delete the existing same name file or append a _{random_num} to the end of the file name in case you run this multiple times
+- Automatically parse the headers from the file and acknowledge their values by looking at the names so that columns don't need to be in order when loading it in
