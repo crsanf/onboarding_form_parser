@@ -12,7 +12,7 @@ Running the Script:
 - From CLI.PowerShell,Terminal
   - Navigate to where the files and script are
   - Windows: <code>python parse_form.py</code>
-  - Mac: <code>python3 prase_form.py</code>
+  - Mac: <code>python3 parse_form.py</code>
 
 Program Flow:
 - Calculate the dates, or prompt the user for them
